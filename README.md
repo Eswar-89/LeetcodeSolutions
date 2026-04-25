@@ -45,8 +45,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 3001-4000
 
-| #   | Title | Solution |
-| --- | ----- | -------- |
+| #    | Title                                            | Solution                                                                     |
+| ---- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 3464 | Maximize the Distance Between Points on a Square | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
