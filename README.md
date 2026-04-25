@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #    | Title                                | Solution                                                         |
 | ---- | ------------------------------------ | ---------------------------------------------------------------- |
 | 2452 | Words Within Two Edits of Dictionary | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java) |
+| 2615 | Sum of Distances                     | [Java](2001-3000/2615_Sum_of_Distances.java)                     |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
