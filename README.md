@@ -24,8 +24,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 1001-2000
 
-| #   | Title | Solution |
-| --- | ----- | -------- |
+| #    | Title                    | Solution                                             |
+| ---- | ------------------------ | ---------------------------------------------------- |
+| 1559 | Detect Cycles in 2D Grid | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
