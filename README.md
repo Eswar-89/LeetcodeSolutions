@@ -24,9 +24,10 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 1001-2000
 
-| #    | Title                    | Solution                                             |
-| ---- | ------------------------ | ---------------------------------------------------- |
-| 1559 | Detect Cycles in 2D Grid | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java) |
+| #    | Title                                    | Solution                                                             |
+| ---- | ---------------------------------------- | -------------------------------------------------------------------- |
+| 1391 | Check if There is a Valid Path in a Grid | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java) |
+| 1559 | Detect Cycles in 2D Grid                 | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                 |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
