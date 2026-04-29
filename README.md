@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                            | Solution                                                                     |
 | ---- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 3225 | Maximum Score From Grid Operations               | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)               |
 | 3464 | Maximize the Distance Between Points on a Square | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
