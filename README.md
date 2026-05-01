@@ -15,8 +15,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 0001-1000
 
-| #   | Title | Solution |
-| --- | ----- | -------- |
+| #   | Title           | Solution                                   |
+| --- | --------------- | ------------------------------------------ |
+| 396 | Rotate Function | [Java](0001-1000/396_Rotate_Function.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
