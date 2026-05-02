@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #   | Title           | Solution                                   |
 | --- | --------------- | ------------------------------------------ |
 | 396 | Rotate Function | [Java](0001-1000/396_Rotate_Function.java) |
+| 788 | Rotated Digits  | [Java](0001-1000/788_Rotated_Digits.java)  |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
