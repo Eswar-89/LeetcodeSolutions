@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #   | Title           | Solution                                   |
 | --- | --------------- | ------------------------------------------ |
+| 48  | Rotate Image    | [Java](0001-1000/48_Rotate_Image.java)     |
 | 396 | Rotate Function | [Java](0001-1000/396_Rotate_Function.java) |
 | 788 | Rotated Digits  | [Java](0001-1000/788_Rotated_Digits.java)  |
 | 796 | Rotate String   | [Java](0001-1000/796_Rotate_String.java)   |
