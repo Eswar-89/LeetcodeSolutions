@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                     | Solution                                                              |
 | ---- | ----------------------------------------- | --------------------------------------------------------------------- |
+| 1306 | Jump Game III                             | [Java](1001-2000/1306_Jump_Game_III.java)                             |
 | 1391 | Check if There is a Valid Path in a Grid  | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)  |
 | 1559 | Detect Cycles in 2D Grid                  | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                  |
 | 1665 | Minimum Initial Energy to Finish Tasks    | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)    |
