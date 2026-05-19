@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | ---- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 | 2033 | Minimum Operations to Make a Uni-Value Grid     | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_UniValue_Grid.java)      |
 | 2452 | Words Within Two Edits of Dictionary            | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)            |
+| 2540 | Minimum Common Value                            | [Java](2001-3000/2540_Minimum_Common_Value.java)                            |
 | 2553 | Separate the Digits in an Array                 | [Java](2001-3000/2553_Separate_the_Digits_in_an_Array.java)                 |
 | 2615 | Sum of Distances                                | [Java](2001-3000/2615_Sum_of_Distances.java)                                |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | [Java](2001-3000/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.java) |
