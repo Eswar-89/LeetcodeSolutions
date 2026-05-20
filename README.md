@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2540 | Minimum Common Value                            | [Java](2001-3000/2540_Minimum_Common_Value.java)                            |
 | 2553 | Separate the Digits in an Array                 | [Java](2001-3000/2553_Separate_the_Digits_in_an_Array.java)                 |
 | 2615 | Sum of Distances                                | [Java](2001-3000/2615_Sum_of_Distances.java)                                |
+| 2657 | Find the Prefix Common Array of Two Arrays      | [Java](2001-3000/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.java)      |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | [Java](2001-3000/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.java) |
 | 2784 | Check if Array is Good                          | [Java](2001-3000/2784_Check_if_Array_is_Good.java)                          |
 | 2833 | Furthest Point From Origin                      | [Java](2001-3000/2833_Furthest_Point_From_Origin.java)                      |
