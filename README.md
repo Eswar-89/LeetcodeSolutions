@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1559 | Detect Cycles in 2D Grid                  | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                  |
 | 1665 | Minimum Initial Energy to Finish Tasks    | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)    |
 | 1674 | Minimum Moves to Make Array Complementary | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java) |
+| 1752 | Check if Array Is Sorted and Rotated      | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)         |
 | 1861 | Rotating the Box                          | [Java](1001-2000/1861_Rotating_the_Box.java)                          |
 | 1914 | Cyclically Rotating a Grid                | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                |
 
