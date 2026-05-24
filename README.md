@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #    | Title                                     | Solution                                                              |
 | ---- | ----------------------------------------- | --------------------------------------------------------------------- |
 | 1306 | Jump Game III                             | [Java](1001-2000/1306_Jump_Game_III.java)                             |
+| 1340 | Jump Game V                               | [Java](1001-2000/1340_Jump_Game_V.java)                               |
 | 1345 | Jump Game IV                              | [Java](1001-2000/1345_Jump_Game_IV.java)                              |
 | 1391 | Check if There is a Valid Path in a Grid  | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)  |
 | 1559 | Detect Cycles in 2D Grid                  | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                  |
