@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #    | Title                                              | Solution                                                                       |
 | ---- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 3043 | Find the Length of the Longest Common Prefix       | [Java](3001-4000/3043_Find_the_Length_of_the_Longest_Common_Prefix.java)       |
+| 3120 | Count the Number of Special Characters I           | [Java](3001-4000/3120_Count_the_Number_of_Special_Characters_I.java)           |
 | 3225 | Maximum Score From Grid Operations                 | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                 |
 | 3464 | Maximize the Distance Between Points on a Square   | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)   |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java) |
