@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3120 | Count the Number of Special Characters I           | [Java](3001-4000/3120_Count_the_Number_of_Special_Characters_I.java)           |
 | 3121 | Count the Number of Special Characters II          | [Java](3001-4000/3121_Count_the_Number_of_Special_Characters_II.java)          |
 | 3225 | Maximum Score From Grid Operations                 | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                 |
+| 3300 | Minimum Element After Replacement With Digit Sum   | [Java](3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.java)   |
 | 3464 | Maximize the Distance Between Points on a Square   | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)   |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java) |
 | 3660 | Jump Game IX                                       | [Java](3001-4000/3660_Jump_Game_IX.java)                                       |
