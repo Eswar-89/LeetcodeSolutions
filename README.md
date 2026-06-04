@@ -87,6 +87,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3635 | Earliest Finish Time for Land and Water Rides II   | [Java](3001-4000/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.java)   |
 | 3660 | Jump Game IX                                       | [Java](3001-4000/3660_Jump_Game_IX.java)                                       |
 | 3742 | Maximum Path Score in a Grid                       | [Java](3001-4000/3742_Maximum_Path_Score_in_a_Grid.java)                       |
+| 3751 | Total Waviness of Numbers in Range I               | [Java](3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.java)               |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
