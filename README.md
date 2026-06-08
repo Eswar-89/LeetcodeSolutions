@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2033 | Minimum Operations to Make a Uni-Value Grid     | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_UniValue_Grid.java)      |
 | 2126 | Destroying Asteroids                            | [Java](2001-3000/2126_Destroying_Asteroids.java)                            |
 | 2144 | Minimum Cost of Buying Candies With Discount    | [Java](2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.java)    |
+| 2161 | Partition Array According to Given Pivot        | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)        |
 | 2196 | Create Binary Tree From Descriptions            | [Java](2001-3000/2196_Create_Binary_Tree_From_Descriptions.java)            |
 | 2452 | Words Within Two Edits of Dictionary            | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)            |
 | 2540 | Minimum Common Value                            | [Java](2001-3000/2540_Minimum_Common_Value.java)                            |
