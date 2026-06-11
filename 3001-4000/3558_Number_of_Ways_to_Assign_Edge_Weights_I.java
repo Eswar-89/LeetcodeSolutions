@@ -54,6 +54,10 @@ class Solution {
         return (int) power(2, maxDepth - 1);
     }
 }
+
+
+
+
 //Method - 2
 class Solution {
     static final long MOD = 1_000_000_007L;
