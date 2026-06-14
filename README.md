@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | ---- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 | 2033 | Minimum Operations to Make a Uni-Value Grid     | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_UniValue_Grid.java)      |
 | 2126 | Destroying Asteroids                            | [Java](2001-3000/2126_Destroying_Asteroids.java)                            |
+| 2130 | Maximum Twin Sum of a Linked List               | [Java](2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.java)               |
 | 2144 | Minimum Cost of Buying Candies With Discount    | [Java](2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.java)    |
 | 2161 | Partition Array According to Given Pivot        | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)        |
 | 2196 | Create Binary Tree From Descriptions            | [Java](2001-3000/2196_Create_Binary_Tree_From_Descriptions.java)            |
