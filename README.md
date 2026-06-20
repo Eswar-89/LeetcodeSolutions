@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1674 | Minimum Moves to Make Array Complementary | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java) |
 | 1732 | Find the Highest Altitude                 | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                 |
 | 1752 | Check if Array Is Sorted and Rotated      | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)         |
+| 1840 | Maximum Building Height                   | [Java](1001-2000/1840_Maximum_Building_Height.java)                   |
 | 1861 | Rotating the Box                          | [Java](1001-2000/1861_Rotating_the_Box.java)                          |
 | 1871 | Jump Game VII                             | [Java](1001-2000/1871_Jump_Game_VII.java)                             |
 | 1914 | Cyclically Rotating a Grid                | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                |
