@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                     | Solution                                                              |
 | ---- | ----------------------------------------- | --------------------------------------------------------------------- |
+| 1189 | Maximum Number of Balloons                | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                |
 | 1306 | Jump Game III                             | [Java](1001-2000/1306_Jump_Game_III.java)                             |
 | 1340 | Jump Game V                               | [Java](1001-2000/1340_Jump_Game_V.java)                               |
 | 1345 | Jump Game IV                              | [Java](1001-2000/1345_Jump_Game_IV.java)                              |
