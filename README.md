@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3699 | Number of ZigZag Arrays I                          | [Java](3001-4000/3699_Number_of_ZigZag_Arrays_I.java)                          |
 | 3700 | Number of ZigZag Arrays II                         | [Java](3001-4000/3700_Number_of_ZigZag_Arrays_II.java)                         |
 | 3737 | Count Subarrays With Majority Element I            | [Java](3001-4000/3737_Count_Subarrays_With_Majority_Element_I.java)            |
+| 3739 | Count Subarrays With Majority Element II           | [Java](3001-4000/3739_Count_Subarrays_With_Majority_Element_II.java)           |
 | 3742 | Maximum Path Score in a Grid                       | [Java](3001-4000/3742_Maximum_Path_Score_in_a_Grid.java)                       |
 | 3751 | Total Waviness of Numbers in Range I               | [Java](3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.java)               |
 | 3753 | Total Waviness of Numbers in Range II              | [Java](3001-4000/3753_Total_Waviness_of_Numbers_in_Range_II.java)              |
