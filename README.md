@@ -83,6 +83,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                              | Solution                                                                       |
 | ---- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 3020 | Find the Maximum Number of Elements in Subset      | [Java](3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.java)      |
 | 3043 | Find the Length of the Longest Common Prefix       | [Java](3001-4000/3043_Find_the_Length_of_the_Longest_Common_Prefix.java)       |
 | 3093 | Longest Common Suffix Queries                      | [Java](3001-4000/3093_Longest_Common_Suffix_Queries.java)                      |
 | 3120 | Count the Number of Special Characters I           | [Java](3001-4000/3120_Count_the_Number_of_Special_Characters_I.java)           |
