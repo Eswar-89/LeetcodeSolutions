@@ -32,23 +32,24 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 1001-2000
 
-| #    | Title                                     | Solution                                                              |
-| ---- | ----------------------------------------- | --------------------------------------------------------------------- |
-| 1189 | Maximum Number of Balloons                | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                |
-| 1306 | Jump Game III                             | [Java](1001-2000/1306_Jump_Game_III.java)                             |
-| 1340 | Jump Game V                               | [Java](1001-2000/1340_Jump_Game_V.java)                               |
-| 1345 | Jump Game IV                              | [Java](1001-2000/1345_Jump_Game_IV.java)                              |
-| 1391 | Check if There is a Valid Path in a Grid  | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)  |
-| 1559 | Detect Cycles in 2D Grid                  | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                  |
-| 1665 | Minimum Initial Energy to Finish Tasks    | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)    |
-| 1674 | Minimum Moves to Make Array Complementary | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java) |
-| 1732 | Find the Highest Altitude                 | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                 |
-| 1752 | Check if Array Is Sorted and Rotated      | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)         |
-| 1833 | Maximum Ice Cream Bars                    | [Java](1001-2000/1833_Maximum_Ice_Cream_Bars.java)                    |
-| 1840 | Maximum Building Height                   | [Java](1001-2000/1840_Maximum_Building_Height.java)                   |
-| 1861 | Rotating the Box                          | [Java](1001-2000/1861_Rotating_the_Box.java)                          |
-| 1871 | Jump Game VII                             | [Java](1001-2000/1871_Jump_Game_VII.java)                             |
-| 1914 | Cyclically Rotating a Grid                | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                |
+| #    | Title                                            | Solution                                                                     |
+| ---- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 1189 | Maximum Number of Balloons                       | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                       |
+| 1306 | Jump Game III                                    | [Java](1001-2000/1306_Jump_Game_III.java)                                    |
+| 1340 | Jump Game V                                      | [Java](1001-2000/1340_Jump_Game_V.java)                                      |
+| 1345 | Jump Game IV                                     | [Java](1001-2000/1345_Jump_Game_IV.java)                                     |
+| 1391 | Check if There is a Valid Path in a Grid         | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)         |
+| 1559 | Detect Cycles in 2D Grid                         | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                         |
+| 1665 | Minimum Initial Energy to Finish Tasks           | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)           |
+| 1674 | Minimum Moves to Make Array Complementary        | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)        |
+| 1732 | Find the Highest Altitude                        | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                        |
+| 1752 | Check if Array Is Sorted and Rotated             | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)                |
+| 1833 | Maximum Ice Cream Bars                           | [Java](1001-2000/1833_Maximum_Ice_Cream_Bars.java)                           |
+| 1840 | Maximum Building Height                          | [Java](1001-2000/1840_Maximum_Building_Height.java)                          |
+| 1846 | Maximum Element After Decreasing and Rearranging | [Java](1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.java) |
+| 1861 | Rotating the Box                                 | [Java](1001-2000/1861_Rotating_the_Box.java)                                 |
+| 1871 | Jump Game VII                                    | [Java](1001-2000/1871_Jump_Game_VII.java)                                    |
+| 1914 | Cyclically Rotating a Grid                       | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                       |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
