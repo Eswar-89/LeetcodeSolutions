@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2657 | Find the Prefix Common Array of Two Arrays      | [Java](2001-3000/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.java)      |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | [Java](2001-3000/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.java) |
 | 2784 | Check if Array is Good                          | [Java](2001-3000/2784_Check_if_Array_is_Good.java)                          |
+| 2812 | Find the Safest Path in a Grid                  | [Java](2001-3000/2812_Find_the_Safest_Path_in_a_Grid.java)                  |
 | 2833 | Furthest Point From Origin                      | [Java](2001-3000/2833_Furthest_Point_From_Origin.java)                      |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
