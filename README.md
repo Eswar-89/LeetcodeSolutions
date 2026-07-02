@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3121 | Count the Number of Special Characters II          | [Java](3001-4000/3121_Count_the_Number_of_Special_Characters_II.java)          |
 | 3161 | Block Placement Queries                            | [Java](3001-4000/3161_Block_Placement_Queries.java)                            |
 | 3225 | Maximum Score From Grid Operations                 | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                 |
+| 3286 | Find a Safe Walk Through a Grid                    | [Java](3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.java)                    |
 | 3300 | Minimum Element After Replacement With Digit Sum   | [Java](3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.java)   |
 | 3464 | Maximize the Distance Between Points on a Square   | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)   |
 | 3558 | Number of Ways to Assign Edge Weights I            | [Java](3001-4000/3558_Number_of_Ways_to_Assign_Edge_Weights_I.java)            |
