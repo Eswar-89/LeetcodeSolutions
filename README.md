@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2161 | Partition Array According to Given Pivot        | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)        |
 | 2196 | Create Binary Tree From Descriptions            | [Java](2001-3000/2196_Create_Binary_Tree_From_Descriptions.java)            |
 | 2452 | Words Within Two Edits of Dictionary            | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)            |
+| 2492 | Minimum Score of a Path Between Two Cities      | [Java](2001-3000/2492_Minimum_Score_of_a_Path_Between_Two_Cities.java)      |
 | 2540 | Minimum Common Value                            | [Java](2001-3000/2540_Minimum_Common_Value.java)                            |
 | 2553 | Separate the Digits in an Array                 | [Java](2001-3000/2553_Separate_the_Digits_in_an_Array.java)                 |
 | 2574 | Left and Right Sum Differences                  | [Java](2001-3000/2574_Left_and_Right_Sum_Differences.java)                  |
