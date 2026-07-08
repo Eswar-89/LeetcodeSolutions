@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3751 | Total Waviness of Numbers in Range I               | [Java](3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.java)               |
 | 3753 | Total Waviness of Numbers in Range II              | [Java](3001-4000/3753_Total_Waviness_of_Numbers_in_Range_II.java)              |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I  | [Java](3001-4000/3754_Concatenate_NonZero_Digits_and_Multiply_by_Sum_I.java)   |
+| 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)  |
 | 3838 | Weighted Word Mapping                              | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                              |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
