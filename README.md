@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | ---- | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 1189 | Maximum Number of Balloons                           | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                           |
 | 1288 | Remove Covered Intervals                             | [Java](1001-2000/1288_Remove_Covered_Intervals.java)                             |
+| 1291 | Sequential Digits                                    | [Java](1001-2000/1291_Sequential_Digits.java)                                    |
 | 1301 | Number of Paths with Max Score                       | [Java](1001-2000/1301_Number_of_Paths_with_Max_Score.java)                       |
 | 1306 | Jump Game III                                        | [Java](1001-2000/1306_Jump_Game_III.java)                                        |
 | 1331 | Rank Transform of an Array                           | [Java](1001-2000/1331_Rank_Transform_of_an_Array.java)                           |
