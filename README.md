@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java) |
 | 3633 | Earliest Finish Time for Land and Water Rides I    | [Java](3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.java)    |
 | 3635 | Earliest Finish Time for Land and Water Rides II   | [Java](3001-4000/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.java)   |
+| 3658 | GCD of Odd and Even Sums                           | [Java](3001-4000/3658_GCD_of_Odd_and_Even_Sums.java)                           |
 | 3660 | Jump Game IX                                       | [Java](3001-4000/3660_Jump_Game_IX.java)                                       |
 | 3689 | Maximum Total Subarray Value I                     | [Java](3001-4000/3689_Maximum_Total_Subarray_Value_I.java)                     |
 | 3691 | Maximum Total Subarray Value II                    | [Java](3001-4000/3691_Maximum_Total_Subarray_Value_II.java)                    |
