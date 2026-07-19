@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                                | Solution                                                                         |
 | ---- | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1081 | Smallest Subsequence of Distinct Characters          | [Java](1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.java)          |
 | 1189 | Maximum Number of Balloons                           | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                           |
 | 1288 | Remove Covered Intervals                             | [Java](1001-2000/1288_Remove_Covered_Intervals.java)                             |
 | 1291 | Sequential Digits                                    | [Java](1001-2000/1291_Sequential_Digits.java)                                    |
