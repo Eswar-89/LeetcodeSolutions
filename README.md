@@ -15,18 +15,19 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 0001-1000
 
-| #   | Title                                   | Solution                                                           |
-| --- | --------------------------------------- | ------------------------------------------------------------------ |
-| 1   | Two Sum                                 | [Java](0001-1000/1_Two_Sum.java)                                   |
-| 2   | Add Two Numbers                         | [Java](0001-1000/2_Add_Two_Numbers.java)                           |
-| 33  | Search in Rotated Sorted Array          | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)           |
-| 48  | Rotate Image                            | [Java](0001-1000/48_Rotate_Image.java)                             |
-| 61  | Rotate List                             | [Java](0001-1000/61_Rotate_List.java)                              |
-| 153 | Find Minimum in Rotated Sorted Array    | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)    |
-| 154 | Find Minimum in Rotated Sorted Array II | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java) |
-| 396 | Rotate Function                         | [Java](0001-1000/396_Rotate_Function.java)                         |
-| 788 | Rotated Digits                          | [Java](0001-1000/788_Rotated_Digits.java)                          |
-| 796 | Rotate String                           | [Java](0001-1000/796_Rotate_String.java)                           |
+| #   | Title                                          | Solution                                                                |
+| --- | ---------------------------------------------- | ----------------------------------------------------------------------- |
+| 1   | Two Sum                                        | [Java](0001-1000/1_Two_Sum.java)                                        |
+| 2   | Add Two Numbers                                | [Java](0001-1000/2_Add_Two_Numbers.java)                                |
+| 3   | Longest Substring Without Repeating Characters | [Java](0001-1000/3_Longest_Substring_Without_Repeating_Characters.java) |
+| 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
+| 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
+| 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
+| 153 | Find Minimum in Rotated Sorted Array           | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)         |
+| 154 | Find Minimum in Rotated Sorted Array II        | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)      |
+| 396 | Rotate Function                                | [Java](0001-1000/396_Rotate_Function.java)                              |
+| 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
+| 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
