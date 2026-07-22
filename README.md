@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #   | Title                                   | Solution                                                           |
 | --- | --------------------------------------- | ------------------------------------------------------------------ |
 | 1   | Two Sum                                 | [Java](0001-1000/1_Two_Sum.java)                                   |
+| 2   | Add Two Numbers                         | [Java](0001-1000/2_Add_Two_Numbers.java)                           |
 | 33  | Search in Rotated Sorted Array          | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)           |
 | 48  | Rotate Image                            | [Java](0001-1000/48_Rotate_Image.java)                             |
 | 61  | Rotate List                             | [Java](0001-1000/61_Rotate_List.java)                              |
