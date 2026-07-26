@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 153 | Find Minimum in Rotated Sorted Array           | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)         |
 | 154 | Find Minimum in Rotated Sorted Array II        | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)      |
 | 396 | Rotate Function                                | [Java](0001-1000/396_Rotate_Function.java)                              |
+| 628 | Maximum Product of Three Numbers               | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)             |
 | 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
 | 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
 
