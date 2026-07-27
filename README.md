@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1345 | Jump Game IV                                         | [Java](1001-2000/1345_Jump_Game_IV.java)                                         |
 | 1358 | Number of Substrings Containing All Three Characters | [Java](1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.java) |
 | 1391 | Check if There is a Valid Path in a Grid             | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)             |
+| 1464 | Maximum Product of Two Elements in an Array          | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)          |
 | 1559 | Detect Cycles in 2D Grid                             | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                             |
 | 1665 | Minimum Initial Energy to Finish Tasks               | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)               |
 | 1674 | Minimum Moves to Make Array Complementary            | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)            |
