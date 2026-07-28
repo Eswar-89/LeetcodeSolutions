@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3499 | Maximize Active Section with Trade I               | [Java](3001-4000/3499_Maximize_Active_Section_with_Trade_I.java)               |
 | 3513 | Number of Unique XOR Triplets I                    | [Java](3001-4000/3513_Number_of_Unique_XOR_Triplets_I.java)                    |
 | 3514 | Number of Unique XOR Triplets II                   | [Java](3001-4000/3514_Number_of_Unique_XOR_Triplets_II.java)                   |
+| 3517 | Smallest Palindromic Rearrangement I               | [Java](3001-4000/3517_Smallest_Palindromic_Rearrangement_I.java)               |
 | 3532 | Path Existence Queries in a Graph I                | [Java](3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.java)                |
 | 3534 | Path Existence Queries in a Graph II               | [Java](3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.java)               |
 | 3536 | Maximum Product of Two Digits                      | [Java](3001-4000/3536_Maximum_Product_of_Two_Digits.java)                      |
