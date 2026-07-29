@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3   | Longest Substring Without Repeating Characters | [Java](0001-1000/3_Longest_Substring_Without_Repeating_Characters.java) |
 | 7   | Reverse Integer                                | [Java](0001-1000/7_Reverse_Integer.java)                                |
 | 8   | String to Integer (atoi)                       | [Java](<0001-1000/8_String_to_Integer_(atoi).java>)                     |
+| 9   | Palindrome Number                              | [Java](0001-1000/9_Palindrome_Number.java)                              |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
