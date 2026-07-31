@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | #    | Title                                              | Solution                                                                       |
 | ---- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 3014 | Minimum Number of Pushes to Type Word I            | [Java](3001-4000/3014_Minimum_Number_of_Pushes_to_Type_Word_I.java)            |
+| 3016 | Minimum Number of Pushes to Type Word II           | [Java](3001-4000/3016_Minimum_Number_of_Pushes_to_Type_Word_II.java)           |
 | 3020 | Find the Maximum Number of Elements in Subset      | [Java](3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.java)      |
 | 3043 | Find the Length of the Longest Common Prefix       | [Java](3001-4000/3043_Find_the_Length_of_the_Longest_Common_Prefix.java)       |
 | 3093 | Longest Common Suffix Queries                      | [Java](3001-4000/3093_Longest_Common_Suffix_Queries.java)                      |
