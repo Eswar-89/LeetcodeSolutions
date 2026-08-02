@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 628 | Maximum Product of Three Numbers               | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)             |
 | 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
 | 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
+| 877 | Stone Game                                     | [Java](0001-1000/877_Stone_Game.java)                                   |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
