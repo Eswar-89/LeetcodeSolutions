@@ -122,6 +122,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3312 | Sorted GCD Pair Queries                            | [Java](3001-4000/3312_Sorted_GCD_Pair_Queries.java)                            |
 | 3336 | Find the Number of Subsequences With Equal GCD     | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)     |
 | 3345 | Smallest Divisible Digit Product I                 | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                 |
+| 3348 | Smallest Divisible Digit Product II                | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                |
 | 3464 | Maximize the Distance Between Points on a Square   | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)   |
 | 3499 | Maximize Active Section with Trade I               | [Java](3001-4000/3499_Maximize_Active_Section_with_Trade_I.java)               |
 | 3513 | Number of Unique XOR Triplets I                    | [Java](3001-4000/3513_Number_of_Unique_XOR_Triplets_I.java)                    |
