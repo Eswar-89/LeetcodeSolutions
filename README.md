@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3225 | Maximum Score From Grid Operations                 | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                 |
 | 3286 | Find a Safe Walk Through a Grid                    | [Java](3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.java)                    |
 | 3300 | Minimum Element After Replacement With Digit Sum   | [Java](3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.java)   |
+| 3302 | Find the Lexicographically Smallest Valid Sequence | [Java](3001-4000/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.java) |
 | 3310 | Remove Methods From Project                        | [Java](3001-4000/3310_Remove_Methods_From_Project.java)                        |
 | 3312 | Sorted GCD Pair Queries                            | [Java](3001-4000/3312_Sorted_GCD_Pair_Queries.java)                            |
 | 3336 | Find the Number of Subsequences With Equal GCD     | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)     |
