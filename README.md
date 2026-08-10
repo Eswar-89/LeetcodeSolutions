@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1391 | Check if There is a Valid Path in a Grid             | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)             |
 | 1406 | Stone Game III                                       | [Java](1001-2000/1406_Stone_Game_III.java)                                       |
 | 1464 | Maximum Product of Two Elements in an Array          | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)          |
+| 1510 | Stone Game IV                                        | [Java](1001-2000/1510_Stone_Game_IV.java)                                        |
 | 1559 | Detect Cycles in 2D Grid                             | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                             |
 | 1665 | Minimum Initial Energy to Finish Tasks               | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)               |
 | 1674 | Minimum Moves to Make Array Complementary            | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)            |
