@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1   | Two Sum                                        | [Java](0001-1000/1_Two_Sum.java)                                        |
 | 2   | Add Two Numbers                                | [Java](0001-1000/2_Add_Two_Numbers.java)                                |
 | 3   | Longest Substring Without Repeating Characters | [Java](0001-1000/3_Longest_Substring_Without_Repeating_Characters.java) |
+| 4   | Median of Two Sorted Arrays                    | [Java](0001-1000/4_Median_of_Two_Sorted_Arrays.java)                    |
 | 7   | Reverse Integer                                | [Java](0001-1000/7_Reverse_Integer.java)                                |
 | 8   | String to Integer (atoi)                       | [Java](<0001-1000/8_String_to_Integer_(atoi).java>)                     |
 | 9   | Palindrome Number                              | [Java](0001-1000/9_Palindrome_Number.java)                              |
