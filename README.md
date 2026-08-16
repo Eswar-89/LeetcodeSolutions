@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 | #    | Title                                                       | Solution                                                                                |
 | ---- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 2029 | Stone Game IX                                               | [Java](2001-3000/2029_Stone_Game_IX.java)                                               |
 | 2033 | Minimum Operations to Make a Uni-Value Grid                 | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_UniValue_Grid.java)                  |
 | 2095 | Delete the Middle Node of a Linked List                     | [Java](2001-3000/2095._Delete_the_Middle_Node_of_a_Linked_List.java)                    |
 | 2126 | Destroying Asteroids                                        | [Java](2001-3000/2126_Destroying_Asteroids.java)                                        |
