@@ -149,6 +149,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3612 | Process String with Special Operations I           | [Java](3001-4000/3612_Process_String_with_Special_Operations_I.java)           |
 | 3614 | Process String with Special Operations II          | [Java](3001-4000/3614_Process_String_with_Special_Operations_II.java)          |
 | 3620 | Network Recovery Pathways                          | [Java](3001-4000/3620_Network_Recovery_Pathways.java)                          |
+| 3622 | Check Divisibility by Digit Sum and Product        | [Java](3001-4000/3622_Check_Divisibility_by_Digit_Sum_and_Product.java)        |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java) |
 | 3633 | Earliest Finish Time for Land and Water Rides I    | [Java](3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.java)    |
 | 3635 | Earliest Finish Time for Land and Water Rides II   | [Java](3001-4000/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.java)   |
