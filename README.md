@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1846 | Maximum Element After Decreasing and Rearranging     | [Java](1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.java)     |
 | 1861 | Rotating the Box                                     | [Java](1001-2000/1861_Rotating_the_Box.java)                                     |
 | 1871 | Jump Game VII                                        | [Java](1001-2000/1871_Jump_Game_VII.java)                                        |
+| 1872 | Stone Game VIII                                      | [Java](1001-2000/1872_Stone_Game_VIII.java)                                      |
 | 1914 | Cyclically Rotating a Grid                           | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                           |
 | 1927 | Sum Game                                             | [Java](1001-2000/1927_Sum_Game.java)                                             |
 | 1967 | Number of Strings That Appear as Substrings in Word  | [Java](1001-2000/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.java)  |
