@@ -162,6 +162,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3699 | Number of ZigZag Arrays I                          | [Java](3001-4000/3699_Number_of_ZigZag_Arrays_I.java)                          |
 | 3700 | Number of ZigZag Arrays II                         | [Java](3001-4000/3700_Number_of_ZigZag_Arrays_II.java)                         |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR      | [Java](3001-4000/3702_Longest_Subsequence_With_NonZero_Bitwise_XOR.java)       |
+| 3718 | Smallest Missing Multiple of K                     | [Java](3001-4000/3718_Smallest_Missing_Multiple_of_K.java)                     |
 | 3731 | Find Missing Elements                              | [Java](3001-4000/3731_Find_Missing_Elements.java)                              |
 | 3737 | Count Subarrays With Majority Element I            | [Java](3001-4000/3737_Count_Subarrays_With_Majority_Element_I.java)            |
 | 3739 | Count Subarrays With Majority Element II           | [Java](3001-4000/3739_Count_Subarrays_With_Majority_Element_II.java)           |
