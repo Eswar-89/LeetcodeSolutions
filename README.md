@@ -117,63 +117,64 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 3001-4000
 
-| #    | Title                                              | Solution                                                                       |
-| ---- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 3014 | Minimum Number of Pushes to Type Word I            | [Java](3001-4000/3014_Minimum_Number_of_Pushes_to_Type_Word_I.java)            |
-| 3016 | Minimum Number of Pushes to Type Word II           | [Java](3001-4000/3016_Minimum_Number_of_Pushes_to_Type_Word_II.java)           |
-| 3020 | Find the Maximum Number of Elements in Subset      | [Java](3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.java)      |
-| 3043 | Find the Length of the Longest Common Prefix       | [Java](3001-4000/3043_Find_the_Length_of_the_Longest_Common_Prefix.java)       |
-| 3069 | Distribute Elements Into Two Arrays I              | [Java](3001-4000/3069_Distribute_Elements_Into_Two_Arrays_I.java)              |
-| 3090 | Maximum Length Substring With Two Occurrences      | [Java](3001-4000/3090_Maximum_Length_Substring_With_Two_Occurrences.java)      |
-| 3093 | Longest Common Suffix Queries                      | [Java](3001-4000/3093_Longest_Common_Suffix_Queries.java)                      |
-| 3120 | Count the Number of Special Characters I           | [Java](3001-4000/3120_Count_the_Number_of_Special_Characters_I.java)           |
-| 3121 | Count the Number of Special Characters II          | [Java](3001-4000/3121_Count_the_Number_of_Special_Characters_II.java)          |
-| 3161 | Block Placement Queries                            | [Java](3001-4000/3161_Block_Placement_Queries.java)                            |
-| 3225 | Maximum Score From Grid Operations                 | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                 |
-| 3286 | Find a Safe Walk Through a Grid                    | [Java](3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.java)                    |
-| 3300 | Minimum Element After Replacement With Digit Sum   | [Java](3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.java)   |
-| 3302 | Find the Lexicographically Smallest Valid Sequence | [Java](3001-4000/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.java) |
-| 3310 | Remove Methods From Project                        | [Java](3001-4000/3310_Remove_Methods_From_Project.java)                        |
-| 3312 | Sorted GCD Pair Queries                            | [Java](3001-4000/3312_Sorted_GCD_Pair_Queries.java)                            |
-| 3336 | Find the Number of Subsequences With Equal GCD     | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)     |
-| 3345 | Smallest Divisible Digit Product I                 | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                 |
-| 3348 | Smallest Divisible Digit Product II                | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                |
-| 3464 | Maximize the Distance Between Points on a Square   | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)   |
-| 3471 | Find the Largest Almost Missing Integer            | [Java](3001-4000/3471_Find_the_Largest_Almost_Missing_Integer.java)            |
-| 3499 | Maximize Active Section with Trade I               | [Java](3001-4000/3499_Maximize_Active_Section_with_Trade_I.java)               |
-| 3513 | Number of Unique XOR Triplets I                    | [Java](3001-4000/3513_Number_of_Unique_XOR_Triplets_I.java)                    |
-| 3514 | Number of Unique XOR Triplets II                   | [Java](3001-4000/3514_Number_of_Unique_XOR_Triplets_II.java)                   |
-| 3517 | Smallest Palindromic Rearrangement I               | [Java](3001-4000/3517_Smallest_Palindromic_Rearrangement_I.java)               |
-| 3532 | Path Existence Queries in a Graph I                | [Java](3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.java)                |
-| 3534 | Path Existence Queries in a Graph II               | [Java](3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.java)               |
-| 3536 | Maximum Product of Two Digits                      | [Java](3001-4000/3536_Maximum_Product_of_Two_Digits.java)                      |
-| 3558 | Number of Ways to Assign Edge Weights I            | [Java](3001-4000/3558_Number_of_Ways_to_Assign_Edge_Weights_I.java)            |
-| 3559 | Number of Ways to Assign Edge Weights II           | [Java](3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.java)           |
-| 3612 | Process String with Special Operations I           | [Java](3001-4000/3612_Process_String_with_Special_Operations_I.java)           |
-| 3614 | Process String with Special Operations II          | [Java](3001-4000/3614_Process_String_with_Special_Operations_II.java)          |
-| 3620 | Network Recovery Pathways                          | [Java](3001-4000/3620_Network_Recovery_Pathways.java)                          |
-| 3622 | Check Divisibility by Digit Sum and Product        | [Java](3001-4000/3622_Check_Divisibility_by_Digit_Sum_and_Product.java)        |
-| 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java) |
-| 3633 | Earliest Finish Time for Land and Water Rides I    | [Java](3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.java)    |
-| 3635 | Earliest Finish Time for Land and Water Rides II   | [Java](3001-4000/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.java)   |
-| 3658 | GCD of Odd and Even Sums                           | [Java](3001-4000/3658_GCD_of_Odd_and_Even_Sums.java)                           |
-| 3660 | Jump Game IX                                       | [Java](3001-4000/3660_Jump_Game_IX.java)                                       |
-| 3689 | Maximum Total Subarray Value I                     | [Java](3001-4000/3689_Maximum_Total_Subarray_Value_I.java)                     |
-| 3691 | Maximum Total Subarray Value II                    | [Java](3001-4000/3691_Maximum_Total_Subarray_Value_II.java)                    |
-| 3699 | Number of ZigZag Arrays I                          | [Java](3001-4000/3699_Number_of_ZigZag_Arrays_I.java)                          |
-| 3700 | Number of ZigZag Arrays II                         | [Java](3001-4000/3700_Number_of_ZigZag_Arrays_II.java)                         |
-| 3702 | Longest Subsequence With Non-Zero Bitwise XOR      | [Java](3001-4000/3702_Longest_Subsequence_With_NonZero_Bitwise_XOR.java)       |
-| 3718 | Smallest Missing Multiple of K                     | [Java](3001-4000/3718_Smallest_Missing_Multiple_of_K.java)                     |
-| 3731 | Find Missing Elements                              | [Java](3001-4000/3731_Find_Missing_Elements.java)                              |
-| 3737 | Count Subarrays With Majority Element I            | [Java](3001-4000/3737_Count_Subarrays_With_Majority_Element_I.java)            |
-| 3739 | Count Subarrays With Majority Element II           | [Java](3001-4000/3739_Count_Subarrays_With_Majority_Element_II.java)           |
-| 3742 | Maximum Path Score in a Grid                       | [Java](3001-4000/3742_Maximum_Path_Score_in_a_Grid.java)                       |
-| 3751 | Total Waviness of Numbers in Range I               | [Java](3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.java)               |
-| 3753 | Total Waviness of Numbers in Range II              | [Java](3001-4000/3753_Total_Waviness_of_Numbers_in_Range_II.java)              |
-| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I  | [Java](3001-4000/3754_Concatenate_NonZero_Digits_and_Multiply_by_Sum_I.java)   |
-| 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)  |
-| 3838 | Weighted Word Mapping                              | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                              |
-| 3867 | Sum of GCD of Formed Pairs                         | [Java](3001-4000/3867_Sum_of_GCD_of_Formed_Pairs.java)                         |
+| #    | Title                                                      | Solution                                                                               |
+| ---- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 3014 | Minimum Number of Pushes to Type Word I                    | [Java](3001-4000/3014_Minimum_Number_of_Pushes_to_Type_Word_I.java)                    |
+| 3016 | Minimum Number of Pushes to Type Word II                   | [Java](3001-4000/3016_Minimum_Number_of_Pushes_to_Type_Word_II.java)                   |
+| 3020 | Find the Maximum Number of Elements in Subset              | [Java](3001-4000/3020_Find_the_Maximum_Number_of_Elements_in_Subset.java)              |
+| 3043 | Find the Length of the Longest Common Prefix               | [Java](3001-4000/3043_Find_the_Length_of_the_Longest_Common_Prefix.java)               |
+| 3069 | Distribute Elements Into Two Arrays I                      | [Java](3001-4000/3069_Distribute_Elements_Into_Two_Arrays_I.java)                      |
+| 3090 | Maximum Length Substring With Two Occurrences              | [Java](3001-4000/3090_Maximum_Length_Substring_With_Two_Occurrences.java)              |
+| 3093 | Longest Common Suffix Queries                              | [Java](3001-4000/3093_Longest_Common_Suffix_Queries.java)                              |
+| 3120 | Count the Number of Special Characters I                   | [Java](3001-4000/3120_Count_the_Number_of_Special_Characters_I.java)                   |
+| 3121 | Count the Number of Special Characters II                  | [Java](3001-4000/3121_Count_the_Number_of_Special_Characters_II.java)                  |
+| 3161 | Block Placement Queries                                    | [Java](3001-4000/3161_Block_Placement_Queries.java)                                    |
+| 3225 | Maximum Score From Grid Operations                         | [Java](3001-4000/3225_Maximum_Score_From_Grid_Operations.java)                         |
+| 3286 | Find a Safe Walk Through a Grid                            | [Java](3001-4000/3286_Find_a_Safe_Walk_Through_a_Grid.java)                            |
+| 3300 | Minimum Element After Replacement With Digit Sum           | [Java](3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.java)           |
+| 3302 | Find the Lexicographically Smallest Valid Sequence         | [Java](3001-4000/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.java)         |
+| 3310 | Remove Methods From Project                                | [Java](3001-4000/3310_Remove_Methods_From_Project.java)                                |
+| 3312 | Sorted GCD Pair Queries                                    | [Java](3001-4000/3312_Sorted_GCD_Pair_Queries.java)                                    |
+| 3336 | Find the Number of Subsequences With Equal GCD             | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)             |
+| 3345 | Smallest Divisible Digit Product I                         | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                         |
+| 3348 | Smallest Divisible Digit Product II                        | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                        |
+| 3464 | Maximize the Distance Between Points on a Square           | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)           |
+| 3471 | Find the Largest Almost Missing Integer                    | [Java](3001-4000/3471_Find_the_Largest_Almost_Missing_Integer.java)                    |
+| 3499 | Maximize Active Section with Trade I                       | [Java](3001-4000/3499_Maximize_Active_Section_with_Trade_I.java)                       |
+| 3513 | Number of Unique XOR Triplets I                            | [Java](3001-4000/3513_Number_of_Unique_XOR_Triplets_I.java)                            |
+| 3514 | Number of Unique XOR Triplets II                           | [Java](3001-4000/3514_Number_of_Unique_XOR_Triplets_II.java)                           |
+| 3517 | Smallest Palindromic Rearrangement I                       | [Java](3001-4000/3517_Smallest_Palindromic_Rearrangement_I.java)                       |
+| 3532 | Path Existence Queries in a Graph I                        | [Java](3001-4000/3532_Path_Existence_Queries_in_a_Graph_I.java)                        |
+| 3534 | Path Existence Queries in a Graph II                       | [Java](3001-4000/3534_Path_Existence_Queries_in_a_Graph_II.java)                       |
+| 3536 | Maximum Product of Two Digits                              | [Java](3001-4000/3536_Maximum_Product_of_Two_Digits.java)                              |
+| 3558 | Number of Ways to Assign Edge Weights I                    | [Java](3001-4000/3558_Number_of_Ways_to_Assign_Edge_Weights_I.java)                    |
+| 3559 | Number of Ways to Assign Edge Weights II                   | [Java](3001-4000/3559_Number_of_Ways_to_Assign_Edge_Weights_II.java)                   |
+| 3612 | Process String with Special Operations I                   | [Java](3001-4000/3612_Process_String_with_Special_Operations_I.java)                   |
+| 3614 | Process String with Special Operations II                  | [Java](3001-4000/3614_Process_String_with_Special_Operations_II.java)                  |
+| 3620 | Network Recovery Pathways                                  | [Java](3001-4000/3620_Network_Recovery_Pathways.java)                                  |
+| 3622 | Check Divisibility by Digit Sum and Product                | [Java](3001-4000/3622_Check_Divisibility_by_Digit_Sum_and_Product.java)                |
+| 3629 | Minimum Jumps to Reach End via Prime Teleportation         | [Java](3001-4000/3629_Minimum_Jumps_to_Reach_End_via_Prime_Teleportation.java)         |
+| 3633 | Earliest Finish Time for Land and Water Rides I            | [Java](3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.java)            |
+| 3635 | Earliest Finish Time for Land and Water Rides II           | [Java](3001-4000/3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.java)           |
+| 3658 | GCD of Odd and Even Sums                                   | [Java](3001-4000/3658_GCD_of_Odd_and_Even_Sums.java)                                   |
+| 3660 | Jump Game IX                                               | [Java](3001-4000/3660_Jump_Game_IX.java)                                               |
+| 3689 | Maximum Total Subarray Value I                             | [Java](3001-4000/3689_Maximum_Total_Subarray_Value_I.java)                             |
+| 3691 | Maximum Total Subarray Value II                            | [Java](3001-4000/3691_Maximum_Total_Subarray_Value_II.java)                            |
+| 3699 | Number of ZigZag Arrays I                                  | [Java](3001-4000/3699_Number_of_ZigZag_Arrays_I.java)                                  |
+| 3700 | Number of ZigZag Arrays II                                 | [Java](3001-4000/3700_Number_of_ZigZag_Arrays_II.java)                                 |
+| 3702 | Longest Subsequence With Non-Zero Bitwise XOR              | [Java](3001-4000/3702_Longest_Subsequence_With_NonZero_Bitwise_XOR.java)               |
+| 3718 | Smallest Missing Multiple of K                             | [Java](3001-4000/3718_Smallest_Missing_Multiple_of_K.java)                             |
+| 3720 | Lexicographically Smallest Permutation Greater Than Target | [Java](3001-4000/3720_Lexicographically_Smallest_Permutation_Greater_Than_Target.java) |
+| 3731 | Find Missing Elements                                      | [Java](3001-4000/3731_Find_Missing_Elements.java)                                      |
+| 3737 | Count Subarrays With Majority Element I                    | [Java](3001-4000/3737_Count_Subarrays_With_Majority_Element_I.java)                    |
+| 3739 | Count Subarrays With Majority Element II                   | [Java](3001-4000/3739_Count_Subarrays_With_Majority_Element_II.java)                   |
+| 3742 | Maximum Path Score in a Grid                               | [Java](3001-4000/3742_Maximum_Path_Score_in_a_Grid.java)                               |
+| 3751 | Total Waviness of Numbers in Range I                       | [Java](3001-4000/3751_Total_Waviness_of_Numbers_in_Range_I.java)                       |
+| 3753 | Total Waviness of Numbers in Range II                      | [Java](3001-4000/3753_Total_Waviness_of_Numbers_in_Range_II.java)                      |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I          | [Java](3001-4000/3754_Concatenate_NonZero_Digits_and_Multiply_by_Sum_I.java)           |
+| 3756 | Concatenate Non-Zero Digits and Multiply by Sum II         | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)          |
+| 3838 | Weighted Word Mapping                                      | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                                      |
+| 3867 | Sum of GCD of Formed Pairs                                 | [Java](3001-4000/3867_Sum_of_GCD_of_Formed_Pairs.java)                                 |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
