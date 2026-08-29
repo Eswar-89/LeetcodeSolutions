@@ -109,6 +109,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2812 | Find the Safest Path in a Grid                              | [Java](2001-3000/2812_Find_the_Safest_Path_in_a_Grid.java)                              |
 | 2833 | Furthest Point From Origin                                  | [Java](2001-3000/2833_Furthest_Point_From_Origin.java)                                  |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String    | [Java](2001-3000/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String.java)    |
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements  | [Java](2001-3000/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.java)  |
 | 2958 | Length of Longest Subarray With at Most K Frequency         | [Java](2001-3000/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.java)         |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [Java](2001-3000/2996_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java) |
 
