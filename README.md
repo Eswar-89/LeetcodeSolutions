@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | ---- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 2029 | Stone Game IX                                               | [Java](2001-3000/2029_Stone_Game_IX.java)                                               |
 | 2033 | Minimum Operations to Make a Uni-Value Grid                 | [Java](2001-3000/2033_Minimum_Operations_to_Make_a_UniValue_Grid.java)                  |
+| 2091 | Removing Minimum and Maximum From Array                     | [Java](2001-3000/2091_Removing_Minimum_and_Maximum_From_Array.java)                     |
 | 2095 | Delete the Middle Node of a Linked List                     | [Java](2001-3000/2095._Delete_the_Middle_Node_of_a_Linked_List.java)                    |
 | 2126 | Destroying Asteroids                                        | [Java](2001-3000/2126_Destroying_Asteroids.java)                                        |
 | 2130 | Maximum Twin Sum of a Linked List                           | [Java](2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.java)                           |
