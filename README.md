@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 9   | Palindrome Number                              | [Java](0001-1000/9_Palindrome_Number.java)                              |
 | 11  | Container With Most Water                      | [Java](0001-1000/11_Container_With_Most_Water.java)                     |
 | 12  | Integer to Roman                               | [Java](0001-1000/12_Integer_to_Roman.java)                              |
+| 13  | Roman to Integer                               | [Java](0001-1000/13_Roman_to_Integer.java)                              |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
