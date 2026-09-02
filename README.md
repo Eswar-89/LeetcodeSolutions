@@ -180,6 +180,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II         | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)          |
 | 3838 | Weighted Word Mapping                                      | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                                      |
 | 3867 | Sum of GCD of Formed Pairs                                 | [Java](3001-4000/3867_Sum_of_GCD_of_Formed_Pairs.java)                                 |
+| 3875 | Construct Uniform Parity Array I                           | [Java](3001-4000/3875_Construct_Uniform_Parity_Array_I.java)                           |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
