@@ -182,6 +182,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3867 | Sum of GCD of Formed Pairs                                 | [Java](3001-4000/3867_Sum_of_GCD_of_Formed_Pairs.java)                                 |
 | 3875 | Construct Uniform Parity Array I                           | [Java](3001-4000/3875_Construct_Uniform_Parity_Array_I.java)                           |
 | 3876 | Construct Uniform Parity Array II                          | [Java](3001-4000/3876_Construct_Uniform_Parity_Array_II.java)                          |
+| 3903 | Smallest Stable Index I                                    | [Java](3001-4000/3903_Smallest_Stable_Index_I.java)                                    |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
