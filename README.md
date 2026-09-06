@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
+| 115 | Distinct Subsequences                          | [Java](0001-1000/115_Distinct_Subsequences.java)                        |
 | 153 | Find Minimum in Rotated Sorted Array           | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)         |
 | 154 | Find Minimum in Rotated Sorted Array II        | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)      |
 | 396 | Rotate Function                                | [Java](0001-1000/396_Rotate_Function.java)                              |
