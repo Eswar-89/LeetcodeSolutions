@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2144 | Minimum Cost of Buying Candies With Discount                         | [Java](2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.java)                         |
 | 2161 | Partition Array According to Given Pivot                             | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)                             |
 | 2196 | Create Binary Tree From Descriptions                                 | [Java](2001-3000/2196_Create_Binary_Tree_From_Descriptions.java)                                 |
+| 2265 | Count Nodes Equal to Average of Subtree                              | [Java](2001-3000/2265_Count_Nodes_Equal_to_Average_of_Subtree.java)                              |
 | 2452 | Words Within Two Edits of Dictionary                                 | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)                                 |
 | 2492 | Minimum Score of a Path Between Two Cities                           | [Java](2001-3000/2492_Minimum_Score_of_a_Path_Between_Two_Cities.java)                           |
 | 2540 | Minimum Common Value                                                 | [Java](2001-3000/2540_Minimum_Common_Value.java)                                                 |
