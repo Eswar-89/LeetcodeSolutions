@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
 | 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
 | 835 | Image Overlap                                  | [Java](0001-1000/835_Image_Overlap.java)                                |
+| 836 | Rectangle Overlap                              | [Java](0001-1000/836_Rectangle_Overlap.java)                            |
 | 877 | Stone Game                                     | [Java](0001-1000/877_Stone_Game.java)                                   |
 | 940 | Distinct Subsequences II                       | [Java](0001-1000/940_Distinct_Subsequences_II.java)                     |
 
