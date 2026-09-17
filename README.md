@@ -50,42 +50,43 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 1001-2000
 
-| #    | Title                                                | Solution                                                                         |
-| ---- | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1081 | Smallest Subsequence of Distinct Characters          | [Java](1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.java)          |
-| 1140 | Stone Game II                                        | [Java](1001-2000/1140_Stone_Game_II.java)                                        |
-| 1189 | Maximum Number of Balloons                           | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                           |
-| 1260 | Shift 2D Grid                                        | [Java](1001-2000/1260_Shift_2D_Grid.java)                                        |
-| 1288 | Remove Covered Intervals                             | [Java](1001-2000/1288_Remove_Covered_Intervals.java)                             |
-| 1291 | Sequential Digits                                    | [Java](1001-2000/1291_Sequential_Digits.java)                                    |
-| 1301 | Number of Paths with Max Score                       | [Java](1001-2000/1301_Number_of_Paths_with_Max_Score.java)                       |
-| 1306 | Jump Game III                                        | [Java](1001-2000/1306_Jump_Game_III.java)                                        |
-| 1331 | Rank Transform of an Array                           | [Java](1001-2000/1331_Rank_Transform_of_an_Array.java)                           |
-| 1340 | Jump Game V                                          | [Java](1001-2000/1340_Jump_Game_V.java)                                          |
-| 1345 | Jump Game IV                                         | [Java](1001-2000/1345_Jump_Game_IV.java)                                         |
-| 1358 | Number of Substrings Containing All Three Characters | [Java](1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.java) |
-| 1386 | Cinema Seat Allocation                               | [Java](1001-2000/1386_Cinema_Seat_Allocation.java)                               |
-| 1391 | Check if There is a Valid Path in a Grid             | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)             |
-| 1406 | Stone Game III                                       | [Java](1001-2000/1406_Stone_Game_III.java)                                       |
-| 1464 | Maximum Product of Two Elements in an Array          | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)          |
-| 1510 | Stone Game IV                                        | [Java](1001-2000/1510_Stone_Game_IV.java)                                        |
-| 1559 | Detect Cycles in 2D Grid                             | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                             |
-| 1563 | Stone Game V                                         | [Java](1001-2000/1563_Stone_Game_V.java)                                         |
-| 1621 | Number of Sets of K Non-Overlapping Line Segments    | [Java](1001-2000/1621_Number_of_Sets_of_K_Non_Overlapping_Line_Segments.java)    |
-| 1665 | Minimum Initial Energy to Finish Tasks               | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)               |
-| 1674 | Minimum Moves to Make Array Complementary            | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)            |
-| 1732 | Find the Highest Altitude                            | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                            |
-| 1752 | Check if Array Is Sorted and Rotated                 | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)                    |
-| 1833 | Maximum Ice Cream Bars                               | [Java](1001-2000/1833_Maximum_Ice_Cream_Bars.java)                               |
-| 1840 | Maximum Building Height                              | [Java](1001-2000/1840_Maximum_Building_Height.java)                              |
-| 1846 | Maximum Element After Decreasing and Rearranging     | [Java](1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.java)     |
-| 1861 | Rotating the Box                                     | [Java](1001-2000/1861_Rotating_the_Box.java)                                     |
-| 1871 | Jump Game VII                                        | [Java](1001-2000/1871_Jump_Game_VII.java)                                        |
-| 1872 | Stone Game VIII                                      | [Java](1001-2000/1872_Stone_Game_VIII.java)                                      |
-| 1914 | Cyclically Rotating a Grid                           | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                           |
-| 1927 | Sum Game                                             | [Java](1001-2000/1927_Sum_Game.java)                                             |
-| 1967 | Number of Strings That Appear as Substrings in Word  | [Java](1001-2000/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.java)  |
-| 1979 | Find Greatest Common Divisor of Array                | [Java](1001-2000/1979_Find_Greatest_Common_Divisor_of_Array.java)                |
+| #    | Title                                                    | Solution                                                                             |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1081 | Smallest Subsequence of Distinct Characters              | [Java](1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.java)              |
+| 1140 | Stone Game II                                            | [Java](1001-2000/1140_Stone_Game_II.java)                                            |
+| 1189 | Maximum Number of Balloons                               | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                               |
+| 1260 | Shift 2D Grid                                            | [Java](1001-2000/1260_Shift_2D_Grid.java)                                            |
+| 1288 | Remove Covered Intervals                                 | [Java](1001-2000/1288_Remove_Covered_Intervals.java)                                 |
+| 1291 | Sequential Digits                                        | [Java](1001-2000/1291_Sequential_Digits.java)                                        |
+| 1301 | Number of Paths with Max Score                           | [Java](1001-2000/1301_Number_of_Paths_with_Max_Score.java)                           |
+| 1306 | Jump Game III                                            | [Java](1001-2000/1306_Jump_Game_III.java)                                            |
+| 1331 | Rank Transform of an Array                               | [Java](1001-2000/1331_Rank_Transform_of_an_Array.java)                               |
+| 1340 | Jump Game V                                              | [Java](1001-2000/1340_Jump_Game_V.java)                                              |
+| 1345 | Jump Game IV                                             | [Java](1001-2000/1345_Jump_Game_IV.java)                                             |
+| 1358 | Number of Substrings Containing All Three Characters     | [Java](1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.java)     |
+| 1386 | Cinema Seat Allocation                                   | [Java](1001-2000/1386_Cinema_Seat_Allocation.java)                                   |
+| 1391 | Check if There is a Valid Path in a Grid                 | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)                 |
+| 1406 | Stone Game III                                           | [Java](1001-2000/1406_Stone_Game_III.java)                                           |
+| 1464 | Maximum Product of Two Elements in an Array              | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)              |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [Java](1001-2000/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.java) |
+| 1510 | Stone Game IV                                            | [Java](1001-2000/1510_Stone_Game_IV.java)                                            |
+| 1559 | Detect Cycles in 2D Grid                                 | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                                 |
+| 1563 | Stone Game V                                             | [Java](1001-2000/1563_Stone_Game_V.java)                                             |
+| 1621 | Number of Sets of K Non-Overlapping Line Segments        | [Java](1001-2000/1621_Number_of_Sets_of_K_Non_Overlapping_Line_Segments.java)        |
+| 1665 | Minimum Initial Energy to Finish Tasks                   | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)                   |
+| 1674 | Minimum Moves to Make Array Complementary                | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)                |
+| 1732 | Find the Highest Altitude                                | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                                |
+| 1752 | Check if Array Is Sorted and Rotated                     | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)                        |
+| 1833 | Maximum Ice Cream Bars                                   | [Java](1001-2000/1833_Maximum_Ice_Cream_Bars.java)                                   |
+| 1840 | Maximum Building Height                                  | [Java](1001-2000/1840_Maximum_Building_Height.java)                                  |
+| 1846 | Maximum Element After Decreasing and Rearranging         | [Java](1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.java)         |
+| 1861 | Rotating the Box                                         | [Java](1001-2000/1861_Rotating_the_Box.java)                                         |
+| 1871 | Jump Game VII                                            | [Java](1001-2000/1871_Jump_Game_VII.java)                                            |
+| 1872 | Stone Game VIII                                          | [Java](1001-2000/1872_Stone_Game_VIII.java)                                          |
+| 1914 | Cyclically Rotating a Grid                               | [Java](1001-2000/1914_Cyclically_Rotating_a_Grid.java)                               |
+| 1927 | Sum Game                                                 | [Java](1001-2000/1927_Sum_Game.java)                                                 |
+| 1967 | Number of Strings That Appear as Substrings in Word      | [Java](1001-2000/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word.java)      |
+| 1979 | Find Greatest Common Divisor of Array                    | [Java](1001-2000/1979_Find_Greatest_Common_Divisor_of_Array.java)                    |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
