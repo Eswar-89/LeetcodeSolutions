@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1464 | Maximum Product of Two Elements in an Array              | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)              |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [Java](1001-2000/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.java) |
 | 1510 | Stone Game IV                                            | [Java](1001-2000/1510_Stone_Game_IV.java)                                            |
+| 1520 | Maximum Number of Non-Overlapping Substrings             | [Java](1001-2000/1520_Maximum_Number_of_Non_Overlapping_Substrings.java)             |
 | 1559 | Detect Cycles in 2D Grid                                 | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                                 |
 | 1563 | Stone Game V                                             | [Java](1001-2000/1563_Stone_Game_V.java)                                             |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments        | [Java](1001-2000/1621_Number_of_Sets_of_K_Non_Overlapping_Line_Segments.java)        |
