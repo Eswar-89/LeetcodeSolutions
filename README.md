@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1358 | Number of Substrings Containing All Three Characters     | [Java](1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.java)     |
 | 1386 | Cinema Seat Allocation                                   | [Java](1001-2000/1386_Cinema_Seat_Allocation.java)                                   |
 | 1391 | Check if There is a Valid Path in a Grid                 | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)                 |
+| 1401 | Circle and Rectangle Overlapping                         | [Java](1001-2000/1401_Circle_and_Rectangle_Overlapping.java)                         |
 | 1406 | Stone Game III                                           | [Java](1001-2000/1406_Stone_Game_III.java)                                           |
 | 1464 | Maximum Product of Two Elements in an Array              | [Java](1001-2000/1464_Maximum_Product_of_Two_Elements_in_an_Array.java)              |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [Java](1001-2000/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.java) |
