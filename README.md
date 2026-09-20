@@ -157,6 +157,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3464 | Maximize the Distance Between Points on a Square           | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)           |
 | 3471 | Find the Largest Almost Missing Integer                    | [Java](3001-4000/3471_Find_the_Largest_Almost_Missing_Integer.java)                    |
 | 3483 | Unique 3-Digit Even Numbers                                | [Java](3001-4000/3483_Unique_3_Digit_Even_Numbers.java)                                |
+| 3498 | Reverse Degree of a String                                 | [Java](3001-4000/3498_Reverse_Degree_of_a_String.java)                                 |
 | 3499 | Maximize Active Section with Trade I                       | [Java](3001-4000/3499_Maximize_Active_Section_with_Trade_I.java)                       |
 | 3513 | Number of Unique XOR Triplets I                            | [Java](3001-4000/3513_Number_of_Unique_XOR_Triplets_I.java)                            |
 | 3514 | Number of Unique XOR Triplets II                           | [Java](3001-4000/3514_Number_of_Unique_XOR_Triplets_II.java)                           |
