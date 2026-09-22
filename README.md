@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 12  | Integer to Roman                               | [Java](0001-1000/12_Integer_to_Roman.java)                              |
 | 13  | Roman to Integer                               | [Java](0001-1000/13_Roman_to_Integer.java)                              |
 | 14  | Longest Common Prefix                          | [Java](0001-1000/14_Longest_Common_Prefix.java)                         |
+| 15  | 3Sum                                           | [Java](0001-1000/15_3Sum.java)                                          |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
