@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1559 | Detect Cycles in 2D Grid                                 | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                                 |
 | 1563 | Stone Game V                                             | [Java](1001-2000/1563_Stone_Game_V.java)                                             |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments        | [Java](1001-2000/1621_Number_of_Sets_of_K_Non_Overlapping_Line_Segments.java)        |
+| 1658 | Minimum Operations to Reduce X to Zero                   | [Java](1001-2000/1658_Minimum_Operations_to_Reduce_X_to_Zero.java)                   |
 | 1665 | Minimum Initial Energy to Finish Tasks                   | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)                   |
 | 1674 | Minimum Moves to Make Array Complementary                | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)                |
 | 1732 | Find the Highest Altitude                                | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                                |
