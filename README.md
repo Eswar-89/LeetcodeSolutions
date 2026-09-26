@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1674 | Minimum Moves to Make Array Complementary                | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)                |
 | 1732 | Find the Highest Altitude                                | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                                |
 | 1752 | Check if Array Is Sorted and Rotated                     | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)                        |
+| 1807 | Evaluate the Bracket Pairs of a String                   | [Java](1001-2000/1807_Evaluate_the_Bracket_Pairs_of_a_String.java)                   |
 | 1833 | Maximum Ice Cream Bars                                   | [Java](1001-2000/1833_Maximum_Ice_Cream_Bars.java)                                   |
 | 1840 | Maximum Building Height                                  | [Java](1001-2000/1840_Maximum_Building_Height.java)                                  |
 | 1846 | Maximum Element After Decreasing and Rearranging         | [Java](1001-2000/1846_Maximum_Element_After_Decreasing_and_Rearranging.java)         |
