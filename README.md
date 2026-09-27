@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1096 | Brace Expansion II                                       | [Java](1001-2000/1096_Brace_Expansion_II.java)                                       |
 | 1140 | Stone Game II                                            | [Java](1001-2000/1140_Stone_Game_II.java)                                            |
 | 1189 | Maximum Number of Balloons                               | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                               |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses      | [Java](1001-2000/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.java)      |
 | 1260 | Shift 2D Grid                                            | [Java](1001-2000/1260_Shift_2D_Grid.java)                                            |
 | 1288 | Remove Covered Intervals                                 | [Java](1001-2000/1288_Remove_Covered_Intervals.java)                                 |
 | 1291 | Sequential Digits                                        | [Java](1001-2000/1291_Sequential_Digits.java)                                        |
