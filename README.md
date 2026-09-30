@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | ---- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | 1081 | Smallest Subsequence of Distinct Characters              | [Java](1001-2000/1081_Smallest_Subsequence_of_Distinct_Characters.java)              |
 | 1096 | Brace Expansion II                                       | [Java](1001-2000/1096_Brace_Expansion_II.java)                                       |
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings   | [Java](1001-2000/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings.java)   |
 | 1140 | Stone Game II                                            | [Java](1001-2000/1140_Stone_Game_II.java)                                            |
 | 1189 | Maximum Number of Balloons                               | [Java](1001-2000/1189_Maximum_Number_of_Balloons.java)                               |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses      | [Java](1001-2000/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.java)      |
