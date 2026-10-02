@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 15  | 3Sum                                           | [Java](0001-1000/15_3Sum.java)                                          |
 | 20  | Valid Parentheses                              | [Java](0001-1000/20_Valid_Parentheses.java)                             |
 | 21  | Merge Two Sorted Lists                         | [Java](0001-1000/21_Merge_Two_Sorted_Lists.java)                        |
+| 22  | Generate Parentheses                           | [Java](0001-1000/22_Generate_Parentheses.java)                          |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
