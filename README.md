@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 396 | Rotate Function                                | [Java](0001-1000/396_Rotate_Function.java)                              |
 | 486 | Predict the Winner                             | [Java](0001-1000/486_Predict_the_Winner.java)                           |
 | 628 | Maximum Product of Three Numbers               | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)             |
+| 678 | Valid Parenthesis String                       | [Java](0001-1000/678_Valid_Parenthesis_String.java)                     |
 | 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
 | 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
 | 835 | Image Overlap                                  | [Java](0001-1000/835_Image_Overlap.java)                                |
