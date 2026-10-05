@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 20  | Valid Parentheses                              | [Java](0001-1000/20_Valid_Parentheses.java)                             |
 | 21  | Merge Two Sorted Lists                         | [Java](0001-1000/21_Merge_Two_Sorted_Lists.java)                        |
 | 22  | Generate Parentheses                           | [Java](0001-1000/22_Generate_Parentheses.java)                          |
+| 26  | Remove Duplicates from Sorted Array            | [Java](0001-1000/26_Remove_Duplicates_from_Sorted_Array.java)           |
 | 32  | Longest Valid Parentheses                      | [Java](0001-1000/32_Longest_Valid_Parentheses.java)                     |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
