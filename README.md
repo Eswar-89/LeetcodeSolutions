@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 835 | Image Overlap                                  | [Java](0001-1000/835_Image_Overlap.java)                                |
 | 836 | Rectangle Overlap                              | [Java](0001-1000/836_Rectangle_Overlap.java)                            |
 | 877 | Stone Game                                     | [Java](0001-1000/877_Stone_Game.java)                                   |
+| 921 | Minimum Add to Make Parentheses Valid          | [Java](0001-1000/921_Minimum_Add_to_Make_Parentheses_Valid.java)        |
 | 940 | Distinct Subsequences II                       | [Java](0001-1000/940_Distinct_Subsequences_II.java)                     |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
