@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | [Java](1001-2000/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.java) |
 | 1510 | Stone Game IV                                            | [Java](1001-2000/1510_Stone_Game_IV.java)                                            |
 | 1520 | Maximum Number of Non-Overlapping Substrings             | [Java](1001-2000/1520_Maximum_Number_of_Non_Overlapping_Substrings.java)             |
+| 1541 | Minimum Insertions to Balance a Parentheses String       | [Java](1001-2000/1541_Minimum_Insertions_to_Balance_a_Parentheses_String.java)       |
 | 1559 | Detect Cycles in 2D Grid                                 | [Java](1001-2000/1559_Detect_Cycles_in_2D_Grid.java)                                 |
 | 1563 | Stone Game V                                             | [Java](1001-2000/1563_Stone_Game_V.java)                                             |
 | 1614 | Maximum Nesting Depth of the Parentheses                 | [Java](1001-2000/1614_Maximum_Nesting_Depth_of_the_Parentheses.java)                 |
