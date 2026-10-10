@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 32  | Longest Valid Parentheses                      | [Java](0001-1000/32_Longest_Valid_Parentheses.java)                     |
 | 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
 | 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
+| 53  | Maximum Subarray                               | [Java](0001-1000/53_Maximum_Subarray.java)                              |
 | 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
 | 67  | Add Binary                                     | [Java](0001-1000/67_Add_Binary.java)                                    |
 | 115 | Distinct Subsequences                          | [Java](0001-1000/115_Distinct_Subsequences.java)                        |
