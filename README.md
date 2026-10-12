@@ -15,44 +15,45 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 
 ## 0001-1000
 
-| #   | Title                                          | Solution                                                                |
-| --- | ---------------------------------------------- | ----------------------------------------------------------------------- |
-| 1   | Two Sum                                        | [Java](0001-1000/1_Two_Sum.java)                                        |
-| 2   | Add Two Numbers                                | [Java](0001-1000/2_Add_Two_Numbers.java)                                |
-| 3   | Longest Substring Without Repeating Characters | [Java](0001-1000/3_Longest_Substring_Without_Repeating_Characters.java) |
-| 4   | Median of Two Sorted Arrays                    | [Java](0001-1000/4_Median_of_Two_Sorted_Arrays.java)                    |
-| 7   | Reverse Integer                                | [Java](0001-1000/7_Reverse_Integer.java)                                |
-| 8   | String to Integer (atoi)                       | [Java](<0001-1000/8_String_to_Integer_(atoi).java>)                     |
-| 9   | Palindrome Number                              | [Java](0001-1000/9_Palindrome_Number.java)                              |
-| 11  | Container With Most Water                      | [Java](0001-1000/11_Container_With_Most_Water.java)                     |
-| 12  | Integer to Roman                               | [Java](0001-1000/12_Integer_to_Roman.java)                              |
-| 13  | Roman to Integer                               | [Java](0001-1000/13_Roman_to_Integer.java)                              |
-| 14  | Longest Common Prefix                          | [Java](0001-1000/14_Longest_Common_Prefix.java)                         |
-| 15  | 3Sum                                           | [Java](0001-1000/15_3Sum.java)                                          |
-| 20  | Valid Parentheses                              | [Java](0001-1000/20_Valid_Parentheses.java)                             |
-| 21  | Merge Two Sorted Lists                         | [Java](0001-1000/21_Merge_Two_Sorted_Lists.java)                        |
-| 22  | Generate Parentheses                           | [Java](0001-1000/22_Generate_Parentheses.java)                          |
-| 26  | Remove Duplicates from Sorted Array            | [Java](0001-1000/26_Remove_Duplicates_from_Sorted_Array.java)           |
-| 32  | Longest Valid Parentheses                      | [Java](0001-1000/32_Longest_Valid_Parentheses.java)                     |
-| 33  | Search in Rotated Sorted Array                 | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                |
-| 48  | Rotate Image                                   | [Java](0001-1000/48_Rotate_Image.java)                                  |
-| 53  | Maximum Subarray                               | [Java](0001-1000/53_Maximum_Subarray.java)                              |
-| 61  | Rotate List                                    | [Java](0001-1000/61_Rotate_List.java)                                   |
-| 67  | Add Binary                                     | [Java](0001-1000/67_Add_Binary.java)                                    |
-| 115 | Distinct Subsequences                          | [Java](0001-1000/115_Distinct_Subsequences.java)                        |
-| 153 | Find Minimum in Rotated Sorted Array           | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)         |
-| 154 | Find Minimum in Rotated Sorted Array II        | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)      |
-| 396 | Rotate Function                                | [Java](0001-1000/396_Rotate_Function.java)                              |
-| 486 | Predict the Winner                             | [Java](0001-1000/486_Predict_the_Winner.java)                           |
-| 628 | Maximum Product of Three Numbers               | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)             |
-| 678 | Valid Parenthesis String                       | [Java](0001-1000/678_Valid_Parenthesis_String.java)                     |
-| 788 | Rotated Digits                                 | [Java](0001-1000/788_Rotated_Digits.java)                               |
-| 796 | Rotate String                                  | [Java](0001-1000/796_Rotate_String.java)                                |
-| 835 | Image Overlap                                  | [Java](0001-1000/835_Image_Overlap.java)                                |
-| 836 | Rectangle Overlap                              | [Java](0001-1000/836_Rectangle_Overlap.java)                            |
-| 877 | Stone Game                                     | [Java](0001-1000/877_Stone_Game.java)                                   |
-| 921 | Minimum Add to Make Parentheses Valid          | [Java](0001-1000/921_Minimum_Add_to_Make_Parentheses_Valid.java)        |
-| 940 | Distinct Subsequences II                       | [Java](0001-1000/940_Distinct_Subsequences_II.java)                     |
+| #   | Title                                              | Solution                                                                     |
+| --- | -------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1   | Two Sum                                            | [Java](0001-1000/1_Two_Sum.java)                                             |
+| 2   | Add Two Numbers                                    | [Java](0001-1000/2_Add_Two_Numbers.java)                                     |
+| 3   | Longest Substring Without Repeating Characters     | [Java](0001-1000/3_Longest_Substring_Without_Repeating_Characters.java)      |
+| 4   | Median of Two Sorted Arrays                        | [Java](0001-1000/4_Median_of_Two_Sorted_Arrays.java)                         |
+| 7   | Reverse Integer                                    | [Java](0001-1000/7_Reverse_Integer.java)                                     |
+| 8   | String to Integer (atoi)                           | [Java](<0001-1000/8_String_to_Integer_(atoi).java>)                          |
+| 9   | Palindrome Number                                  | [Java](0001-1000/9_Palindrome_Number.java)                                   |
+| 11  | Container With Most Water                          | [Java](0001-1000/11_Container_With_Most_Water.java)                          |
+| 12  | Integer to Roman                                   | [Java](0001-1000/12_Integer_to_Roman.java)                                   |
+| 13  | Roman to Integer                                   | [Java](0001-1000/13_Roman_to_Integer.java)                                   |
+| 14  | Longest Common Prefix                              | [Java](0001-1000/14_Longest_Common_Prefix.java)                              |
+| 15  | 3Sum                                               | [Java](0001-1000/15_3Sum.java)                                               |
+| 20  | Valid Parentheses                                  | [Java](0001-1000/20_Valid_Parentheses.java)                                  |
+| 21  | Merge Two Sorted Lists                             | [Java](0001-1000/21_Merge_Two_Sorted_Lists.java)                             |
+| 22  | Generate Parentheses                               | [Java](0001-1000/22_Generate_Parentheses.java)                               |
+| 26  | Remove Duplicates from Sorted Array                | [Java](0001-1000/26_Remove_Duplicates_from_Sorted_Array.java)                |
+| 28  | Find the Index of the First Occurrence in a String | [Java](0001-1000/28_Find_the_Index_of_the_First_Occurrence_in_a_String.java) |
+| 32  | Longest Valid Parentheses                          | [Java](0001-1000/32_Longest_Valid_Parentheses.java)                          |
+| 33  | Search in Rotated Sorted Array                     | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                     |
+| 48  | Rotate Image                                       | [Java](0001-1000/48_Rotate_Image.java)                                       |
+| 53  | Maximum Subarray                                   | [Java](0001-1000/53_Maximum_Subarray.java)                                   |
+| 61  | Rotate List                                        | [Java](0001-1000/61_Rotate_List.java)                                        |
+| 67  | Add Binary                                         | [Java](0001-1000/67_Add_Binary.java)                                         |
+| 115 | Distinct Subsequences                              | [Java](0001-1000/115_Distinct_Subsequences.java)                             |
+| 153 | Find Minimum in Rotated Sorted Array               | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)              |
+| 154 | Find Minimum in Rotated Sorted Array II            | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)           |
+| 396 | Rotate Function                                    | [Java](0001-1000/396_Rotate_Function.java)                                   |
+| 486 | Predict the Winner                                 | [Java](0001-1000/486_Predict_the_Winner.java)                                |
+| 628 | Maximum Product of Three Numbers                   | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)                  |
+| 678 | Valid Parenthesis String                           | [Java](0001-1000/678_Valid_Parenthesis_String.java)                          |
+| 788 | Rotated Digits                                     | [Java](0001-1000/788_Rotated_Digits.java)                                    |
+| 796 | Rotate String                                      | [Java](0001-1000/796_Rotate_String.java)                                     |
+| 835 | Image Overlap                                      | [Java](0001-1000/835_Image_Overlap.java)                                     |
+| 836 | Rectangle Overlap                                  | [Java](0001-1000/836_Rectangle_Overlap.java)                                 |
+| 877 | Stone Game                                         | [Java](0001-1000/877_Stone_Game.java)                                        |
+| 921 | Minimum Add to Make Parentheses Valid              | [Java](0001-1000/921_Minimum_Add_to_Make_Parentheses_Valid.java)             |
+| 940 | Distinct Subsequences II                           | [Java](0001-1000/940_Distinct_Subsequences_II.java)                          |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 
