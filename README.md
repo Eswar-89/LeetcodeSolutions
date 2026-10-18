@@ -98,6 +98,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1658 | Minimum Operations to Reduce X to Zero                   | [Java](1001-2000/1658_Minimum_Operations_to_Reduce_X_to_Zero.java)                   |
 | 1665 | Minimum Initial Energy to Finish Tasks                   | [Java](1001-2000/1665_Minimum_Initial_Energy_to_Finish_Tasks.java)                   |
 | 1674 | Minimum Moves to Make Array Complementary                | [Java](1001-2000/1674_Minimum_Moves_to_Make_Array_Complementary.java)                |
+| 1727 | Largest Submatrix With Rearrangements                    | [Java](1001-2000/1727_Largest_Submatrix_With_Rearrangements.java)                    |
 | 1732 | Find the Highest Altitude                                | [Java](1001-2000/1732_Find_the_Highest_Altitude.java)                                |
 | 1752 | Check if Array Is Sorted and Rotated                     | [Java](1001-2000/1752_Check_Array_Is_Sorted_and_Rotated.java)                        |
 | 1807 | Evaluate the Bracket Pairs of a String                   | [Java](1001-2000/1807_Evaluate_the_Bracket_Pairs_of_a_String.java)                   |
