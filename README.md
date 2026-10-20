@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 53  | Maximum Subarray                                   | [Java](0001-1000/53_Maximum_Subarray.java)                                   |
 | 61  | Rotate List                                        | [Java](0001-1000/61_Rotate_List.java)                                        |
 | 67  | Add Binary                                         | [Java](0001-1000/67_Add_Binary.java)                                         |
+| 86  | Partition List                                     | [Java](0001-1000/86_Partition_List.java)                                     |
 | 115 | Distinct Subsequences                              | [Java](0001-1000/115_Distinct_Subsequences.java)                             |
 | 153 | Find Minimum in Rotated Sorted Array               | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)              |
 | 154 | Find Minimum in Rotated Sorted Array II            | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)           |
