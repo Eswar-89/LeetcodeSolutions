@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 153 | Find Minimum in Rotated Sorted Array               | [Java](0001-1000/153_Find_Minimum_in_Rotated_Sorted_Array.java)              |
 | 154 | Find Minimum in Rotated Sorted Array II            | [Java](0001-1000/154_Find_Minimum_in_Rotated_Sorted_Array_II.java)           |
 | 160 | Intersection of Two Linked Lists                   | [Java](0001-1000/160_Intersection_of_Two_Linked_Lists.java)                  |
+| 190 | Reverse Bits                                       | [Java](0001-1000/190_Reverse_Bits.java)                                      |
 | 396 | Rotate Function                                    | [Java](0001-1000/396_Rotate_Function.java)                                   |
 | 486 | Predict the Winner                                 | [Java](0001-1000/486_Predict_the_Winner.java)                                |
 | 628 | Maximum Product of Three Numbers                   | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)                  |
