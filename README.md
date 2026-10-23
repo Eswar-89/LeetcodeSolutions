@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 13  | Roman to Integer                                   | [Java](0001-1000/13_Roman_to_Integer.java)                                   |
 | 14  | Longest Common Prefix                              | [Java](0001-1000/14_Longest_Common_Prefix.java)                              |
 | 15  | 3Sum                                               | [Java](0001-1000/15_3Sum.java)                                               |
+| 19  | Remove Nth Node From End of List                   | [Java](0001-1000/19_Remove_Nth_Node_From_End_of_List.java)                   |
 | 20  | Valid Parentheses                                  | [Java](0001-1000/20_Valid_Parentheses.java)                                  |
 | 21  | Merge Two Sorted Lists                             | [Java](0001-1000/21_Merge_Two_Sorted_Lists.java)                             |
 | 22  | Generate Parentheses                               | [Java](0001-1000/22_Generate_Parentheses.java)                               |
