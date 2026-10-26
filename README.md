@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 38  | Count and Say                                      | [Java](0001-1000/38_Count_and_Say.java)                                      |
 | 48  | Rotate Image                                       | [Java](0001-1000/48_Rotate_Image.java)                                       |
 | 53  | Maximum Subarray                                   | [Java](0001-1000/53_Maximum_Subarray.java)                                   |
+| 58  | Length of Last Word                                | [Java](0001-1000/58_Length_of_Last_Word.java)                                |
 | 61  | Rotate List                                        | [Java](0001-1000/61_Rotate_List.java)                                        |
 | 67  | Add Binary                                         | [Java](0001-1000/67_Add_Binary.java)                                         |
 | 86  | Partition List                                     | [Java](0001-1000/86_Partition_List.java)                                     |
