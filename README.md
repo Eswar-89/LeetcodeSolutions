@@ -229,6 +229,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I          | [Java](3001-4000/3754_Concatenate_NonZero_Digits_and_Multiply_by_Sum_I.java)           |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II         | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)          |
 | 3838 | Weighted Word Mapping                                      | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                                      |
+| 3849 | Maximum Bitwise XOR After Rearrangement                    | [Java](3001-4000/3849_Maximum_Bitwise_XOR_After_Rearrangement.java)                    |
 | 3863 | Minimum Operations to Sort a String                        | [Java](3001-4000/3863_Minimum_Operations_to_Sort_a_String.java)                        |
 | 3867 | Sum of GCD of Formed Pairs                                 | [Java](3001-4000/3867_Sum_of_GCD_of_Formed_Pairs.java)                                 |
 | 3870 | Count Commas in Range                                      | [Java](3001-4000/3870_Count_Commas_in_Range.java)                                      |
