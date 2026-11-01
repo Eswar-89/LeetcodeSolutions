@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 160 | Intersection of Two Linked Lists                        | [Java](0001-1000/160_Intersection_of_Two_Linked_Lists.java)                       |
 | 190 | Reverse Bits                                            | [Java](0001-1000/190_Reverse_Bits.java)                                           |
 | 396 | Rotate Function                                         | [Java](0001-1000/396_Rotate_Function.java)                                        |
+| 453 | Minimum Moves to Equal Array Elements                   | [Java](0001-1000/453_Minimum_Moves_to_Equal_Array_Elements.java)                  |
 | 486 | Predict the Winner                                      | [Java](0001-1000/486_Predict_the_Winner.java)                                     |
 | 628 | Maximum Product of Three Numbers                        | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)                       |
 | 678 | Valid Parenthesis String                                | [Java](0001-1000/678_Valid_Parenthesis_String.java)                               |
