@@ -223,6 +223,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | [Java](3001-4000/3720_Lexicographically_Smallest_Permutation_Greater_Than_Target.java) |
 | 3727 | Maximum Alternating Sum of Squares                         | [Java](3001-4000/3727_MaximumAlternating_Sum_of_Squares.java)                          |
 | 3731 | Find Missing Elements                                      | [Java](3001-4000/3731_Find_Missing_Elements.java)                                      |
+| 3736 | Minimum Moves to Equal Array Elements III                  | [Java](3001-4000/3736_Minimum_Moves_to_Equal_Array_Elements_III.java)                  |
 | 3737 | Count Subarrays With Majority Element I                    | [Java](3001-4000/3737_Count_Subarrays_With_Majority_Element_I.java)                    |
 | 3739 | Count Subarrays With Majority Element II                   | [Java](3001-4000/3739_Count_Subarrays_With_Majority_Element_II.java)                   |
 | 3742 | Maximum Path Score in a Grid                               | [Java](3001-4000/3742_Maximum_Path_Score_in_a_Grid.java)                               |
