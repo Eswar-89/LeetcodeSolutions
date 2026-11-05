@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1340 | Jump Game V                                                   | [Java](1001-2000/1340_Jump_Game_V.java)                                                   |
 | 1345 | Jump Game IV                                                  | [Java](1001-2000/1345_Jump_Game_IV.java)                                                  |
 | 1358 | Number of Substrings Containing All Three Characters          | [Java](1001-2000/1358_Number_of_Substrings_Containing_All_Three_Characters.java)          |
+| 1385 | Find the Distance Value Between Two Arrays                    | [Java](1001-2000/1385_Find_the_Distance_Value_Between_Two_Arrays.java)                    |
 | 1386 | Cinema Seat Allocation                                        | [Java](1001-2000/1386_Cinema_Seat_Allocation.java)                                        |
 | 1391 | Check if There is a Valid Path in a Grid                      | [Java](1001-2000/1391_Check_if_There_is_a_Valid_Path_in_a_Grid.java)                      |
 | 1401 | Circle and Rectangle Overlapping                              | [Java](1001-2000/1401_Circle_and_Rectangle_Overlapping.java)                              |
