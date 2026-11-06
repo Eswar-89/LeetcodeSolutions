@@ -153,6 +153,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2615 | Sum of Distances                                                     | [Java](2001-3000/2615_Sum_of_Distances.java)                                                     |
 | 2657 | Find the Prefix Common Array of Two Arrays                           | [Java](2001-3000/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.java)                           |
 | 2685 | Count the Number of Complete Components                              | [Java](2001-3000/2685_Count_the_Number_of_Complete_Components.java)                              |
+| 2747 | Count Zero Request Servers                                           | [Java](2001-3000/2747_Count_Zero_Request_Servers.java)                                           |
 | 2770 | Maximum Number of Jumps to Reach the Last Index                      | [Java](2001-3000/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.java)                      |
 | 2778 | Sum of Squares of Special Elements                                   | [Java](2001-3000/2778_Sum_of_Squares_of_Special_Elements.java)                                   |
 | 2784 | Check if Array is Good                                               | [Java](2001-3000/2784_Check_if_Array_is_Good.java)                                               |
