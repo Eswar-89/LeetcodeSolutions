@@ -150,6 +150,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2540 | Minimum Common Value                                                 | [Java](2001-3000/2540_Minimum_Common_Value.java)                                                 |
 | 2553 | Separate the Digits in an Array                                      | [Java](2001-3000/2553_Separate_the_Digits_in_an_Array.java)                                      |
 | 2574 | Left and Right Sum Differences                                       | [Java](2001-3000/2574_Left_and_Right_Sum_Differences.java)                                       |
+| 2576 | Find the Maximum Number of Marked Indices                            | [Java](2001-3000/2576_Find_the_Maximum_Number_of_Marked_Indices.java)                            |
 | 2615 | Sum of Distances                                                     | [Java](2001-3000/2615_Sum_of_Distances.java)                                                     |
 | 2657 | Find the Prefix Common Array of Two Arrays                           | [Java](2001-3000/2657_Find_the_Prefix_Common_Array_of_Two_Arrays.java)                           |
 | 2685 | Count the Number of Complete Components                              | [Java](2001-3000/2685_Count_the_Number_of_Complete_Components.java)                              |
