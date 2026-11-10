@@ -220,6 +220,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3660 | Jump Game IX                                               | [Java](3001-4000/3660_Jump_Game_IX.java)                                               |
 | 3689 | Maximum Total Subarray Value I                             | [Java](3001-4000/3689_Maximum_Total_Subarray_Value_I.java)                             |
 | 3691 | Maximum Total Subarray Value II                            | [Java](3001-4000/3691_Maximum_Total_Subarray_Value_II.java)                            |
+| 3693 | Climbing Stairs II                                         | [Java](3001-4000/3693_Climbing_Stairs_II.java)                                         |
 | 3699 | Number of ZigZag Arrays I                                  | [Java](3001-4000/3699_Number_of_ZigZag_Arrays_I.java)                                  |
 | 3700 | Number of ZigZag Arrays II                                 | [Java](3001-4000/3700_Number_of_ZigZag_Arrays_II.java)                                 |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR              | [Java](3001-4000/3702_Longest_Subsequence_With_NonZero_Bitwise_XOR.java)               |
