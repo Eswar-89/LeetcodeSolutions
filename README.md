@@ -236,6 +236,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3753 | Total Waviness of Numbers in Range II                      | [Java](3001-4000/3753_Total_Waviness_of_Numbers_in_Range_II.java)                      |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I          | [Java](3001-4000/3754_Concatenate_NonZero_Digits_and_Multiply_by_Sum_I.java)           |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II         | [Java](3001-4000/3756_Concatenate_NonZero_Digits_and_Multiply_by_Sum_II.java)          |
+| 3789 | Minimum Cost to Acquire Required Items                     | [Java](3001-4000/3789_Minimum_Cost_to_Acquire_Required_Items.java)                     |
 | 3838 | Weighted Word Mapping                                      | [Java](3001-4000/3838_Weighted_Word_Mapping.java)                                      |
 | 3843 | First Element with Unique Frequency                        | [Java](3001-4000/3843_First_Element_with_Unique_Frequency.java)                        |
 | 3847 | Find the Score Difference in a Game                        | [Java](3001-4000/3847_Find_the_Score_Difference_in_a_Game.java)                        |
