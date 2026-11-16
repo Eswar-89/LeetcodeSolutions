@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2144 | Minimum Cost of Buying Candies With Discount                         | [Java](2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.java)                         |
 | 2161 | Partition Array According to Given Pivot                             | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)                             |
 | 2196 | Create Binary Tree From Descriptions                                 | [Java](2001-3000/2196_Create_Binary_Tree_From_Descriptions.java)                                 |
+| 2243 | Calculate Digit Sum of a String                                      | [Java](2001-3000/2243_Calculate_Digit_Sum_of_a_String.java)                                      |
 | 2265 | Count Nodes Equal to Average of Subtree                              | [Java](2001-3000/2265_Count_Nodes_Equal_to_Average_of_Subtree.java)                              |
 | 2452 | Words Within Two Edits of Dictionary                                 | [Java](2001-3000/2452_Words_Within_Two_Edits_of_Dictionary.java)                                 |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings              | [Java](2001-3000/2472_Maximum_Number_of_Non_overlapping_Palindrome_Substrings.java)              |
