@@ -88,6 +88,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 1291 | Sequential Digits                                             | [Java](1001-2000/1291_Sequential_Digits.java)                                             |
 | 1301 | Number of Paths with Max Score                                | [Java](1001-2000/1301_Number_of_Paths_with_Max_Score.java)                                |
 | 1306 | Jump Game III                                                 | [Java](1001-2000/1306_Jump_Game_III.java)                                                 |
+| 1313 | Decompress Run-Length Encoded List                            | [Java](1001-2000/1313_Decompress_Run-Length_Encoded_List.java)                            |
 | 1331 | Rank Transform of an Array                                    | [Java](1001-2000/1331_Rank_Transform_of_an_Array.java)                                    |
 | 1340 | Jump Game V                                                   | [Java](1001-2000/1340_Jump_Game_V.java)                                                   |
 | 1345 | Jump Game IV                                                  | [Java](1001-2000/1345_Jump_Game_IV.java)                                                  |
