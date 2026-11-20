@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 453 | Minimum Moves to Equal Array Elements                   | [Java](0001-1000/453_Minimum_Moves_to_Equal_Array_Elements.java)                  |
 | 462 | Minimum Moves to Equal Array Elements II                | [Java](0001-1000/462_Minimum_Moves_to_Equal_Array_Elements_II.java)               |
 | 486 | Predict the Winner                                      | [Java](0001-1000/486_Predict_the_Winner.java)                                     |
+| 526 | Beautiful Arrangement                                   | [Java](0001-1000/526_Beautiful_Arrangement.java)                                  |
 | 628 | Maximum Product of Three Numbers                        | [Java](0001-1000/628_Maximum_Product_of_Three_Numbers.java)                       |
 | 678 | Valid Parenthesis String                                | [Java](0001-1000/678_Valid_Parenthesis_String.java)                               |
 | 788 | Rotated Digits                                          | [Java](0001-1000/788_Rotated_Digits.java)                                         |
