@@ -143,6 +143,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2091 | Removing Minimum and Maximum From Array                              | [Java](2001-3000/2091_Removing_Minimum_and_Maximum_From_Array.java)                              |
 | 2095 | Delete the Middle Node of a Linked List                              | [Java](2001-3000/2095._Delete_the_Middle_Node_of_a_Linked_List.java)                             |
 | 2126 | Destroying Asteroids                                                 | [Java](2001-3000/2126_Destroying_Asteroids.java)                                                 |
+| 2129 | Capitalize the Title                                                 | [Java](2001-3000/2129_Capitalize_the_Title.java)                                                 |
 | 2130 | Maximum Twin Sum of a Linked List                                    | [Java](2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.java)                                    |
 | 2144 | Minimum Cost of Buying Candies With Discount                         | [Java](2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.java)                         |
 | 2161 | Partition Array According to Given Pivot                             | [Java](2001-3000/2161_Partition_Array_According_to_Given_Pivot.java)                             |
