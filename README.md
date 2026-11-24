@@ -206,6 +206,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3345 | Smallest Divisible Digit Product I                          | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                          |
 | 3348 | Smallest Divisible Digit Product II                         | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                         |
 | 3364 | Minimum Positive Sum Subarray                               | [Java](3001-4000/3364_Minimum_Positive_Sum_Subarray.java)                               |
+| 3411 | Maximum Subarray With Equal Products                        | [Java](3001-4000/3411_Maximum_Subarray_With_Equal_Products.java)                        |
 | 3464 | Maximize the Distance Between Points on a Square            | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)            |
 | 3471 | Find the Largest Almost Missing Integer                     | [Java](3001-4000/3471_Find_the_Largest_Almost_Missing_Integer.java)                     |
 | 3483 | Unique 3-Digit Even Numbers                                 | [Java](3001-4000/3483_Unique_3_Digit_Even_Numbers.java)                                 |
