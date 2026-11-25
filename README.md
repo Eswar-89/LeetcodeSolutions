@@ -202,6 +202,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3302 | Find the Lexicographically Smallest Valid Sequence          | [Java](3001-4000/3302_Find_the_Lexicographically_Smallest_Valid_Sequence.java)          |
 | 3310 | Remove Methods From Project                                 | [Java](3001-4000/3310_Remove_Methods_From_Project.java)                                 |
 | 3312 | Sorted GCD Pair Queries                                     | [Java](3001-4000/3312_Sorted_GCD_Pair_Queries.java)                                     |
+| 3334 | Find the Maximum Factor Score of Array                      | [Java](3001-4000/3334_Find_the_Maximum_Factor_Score_of_Array.java)                      |
 | 3336 | Find the Number of Subsequences With Equal GCD              | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)              |
 | 3345 | Smallest Divisible Digit Product I                          | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                          |
 | 3348 | Smallest Divisible Digit Product II                         | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                         |
