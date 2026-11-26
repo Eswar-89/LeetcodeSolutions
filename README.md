@@ -206,6 +206,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 3336 | Find the Number of Subsequences With Equal GCD              | [Java](3001-4000/3336_Find_the_Number_of_Subsequences_With_Equal_GCD.java)              |
 | 3345 | Smallest Divisible Digit Product I                          | [Java](3001-4000/3345_Smallest_Divisible_Digit_Product_I.java)                          |
 | 3348 | Smallest Divisible Digit Product II                         | [Java](3001-4000/3348_Smallest_Divisible_Digit_Product_II.java)                         |
+| 3360 | Stone Removal Game                                          | [Java](3001-4000/3360_Stone_Removal_Game.java)                                          |
 | 3364 | Minimum Positive Sum Subarray                               | [Java](3001-4000/3364_Minimum_Positive_Sum_Subarray.java)                               |
 | 3411 | Maximum Subarray With Equal Products                        | [Java](3001-4000/3411_Maximum_Subarray_With_Equal_Products.java)                        |
 | 3464 | Maximize the Distance Between Points on a Square            | [Java](3001-4000/3464_Maximize_the_Distance_Between_Points_on_a_Square.java)            |
