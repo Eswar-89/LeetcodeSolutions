@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 33  | Search in Rotated Sorted Array                          | [Java](0001-1000/33_Search_in_Rotated_Sorted_Array.java)                          |
 | 34  | Find First and Last Position of Element in Sorted Array | [Java](0001-1000/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) |
 | 35  | Search Insert Position                                  | [Java](0001-1000/35_Search_Insert_Position.java)                                  |
+| 37  | Sudoku Solver                                           | [Java](0001-1000/37_Sudoku_Solver.java)                                           |
 | 38  | Count and Say                                           | [Java](0001-1000/38_Count_and_Say.java)                                           |
 | 48  | Rotate Image                                            | [Java](0001-1000/48_Rotate_Image.java)                                            |
 | 53  | Maximum Subarray                                        | [Java](0001-1000/53_Maximum_Subarray.java)                                        |
